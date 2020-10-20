@@ -1,0 +1,22 @@
+.main {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	min-height: 100vh;
+}
+
+.form {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+
+.form__wrap { 
+    width: 300px;
+}
+
+.error { 
+	color: tomato;
+	
+}
